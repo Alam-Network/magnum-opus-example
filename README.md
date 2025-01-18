@@ -2,4 +2,4 @@
 
 Example project text
 
-Team Members: Majdi Jaigirdar
+Team Members: Majdi Jaigirdar (@majdiJ)
